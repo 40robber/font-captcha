@@ -1,0 +1,22 @@
+{
+    "name": "jjyy/font-captcha",
+    "description": "Generate shuffle string or generate captcha image.",
+    "homepage": "https://github.com/40robber/font-captcha",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hulk",
+            "email": "jjyy@outlook.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "JJYY\\FontCaptcha\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
